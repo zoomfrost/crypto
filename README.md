@@ -1,4 +1,5 @@
 # Crypto information portal
+## https://cryptostatistic-project.netlify.app/
 ## you can check cryptocurrencies stats
 ### and see different news about those cryptovalues, check official websites or social network of cryptocurrencies
 
